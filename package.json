@@ -1,0 +1,19 @@
+{
+  "name": "midi2",
+  "version": "0.0.0",
+  "description": "coming soon...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jazz-soft (https://jazz-soft.net/)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jazz-soft/midi2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jazz-soft/midi2/issues"
+  },
+  "homepage": "https://github.com/jazz-soft/midi2#readme"m
+  "license": "MIT"
+}
